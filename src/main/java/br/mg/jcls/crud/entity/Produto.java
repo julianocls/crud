@@ -1,6 +1,6 @@
 package br.mg.jcls.crud.entity;
 
-import br.mg.jcls.crud.data.vo.ProdutoVO;
+import br.mg.jcls.crud.vo.ProdutoVO;
 import lombok.*;
 import org.modelmapper.ModelMapper;
 

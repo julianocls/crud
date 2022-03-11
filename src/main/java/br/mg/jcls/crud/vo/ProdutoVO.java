@@ -1,4 +1,4 @@
-package br.mg.jcls.crud.data.vo;
+package br.mg.jcls.crud.vo;
 
 import br.mg.jcls.crud.entity.Produto;
 import com.fasterxml.jackson.annotation.JsonProperty;

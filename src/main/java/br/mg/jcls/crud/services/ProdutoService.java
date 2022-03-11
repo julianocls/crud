@@ -1,6 +1,6 @@
 package br.mg.jcls.crud.services;
 
-import br.mg.jcls.crud.data.vo.ProdutoVO;
+import br.mg.jcls.crud.vo.ProdutoVO;
 import br.mg.jcls.crud.entity.Produto;
 import br.mg.jcls.crud.message.ProdutoSendMessage;
 import br.mg.jcls.crud.repository.ProdutoRepository;

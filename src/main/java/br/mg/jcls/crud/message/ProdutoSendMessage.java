@@ -1,6 +1,6 @@
 package br.mg.jcls.crud.message;
 
-import br.mg.jcls.crud.data.vo.ProdutoVO;
+import br.mg.jcls.crud.vo.ProdutoVO;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

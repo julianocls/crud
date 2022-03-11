@@ -1,6 +1,6 @@
 package br.mg.jcls.crud.controller;
 
-import br.mg.jcls.crud.data.vo.ProdutoVO;
+import br.mg.jcls.crud.vo.ProdutoVO;
 import br.mg.jcls.crud.services.ProdutoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.PageRequest;
